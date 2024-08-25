@@ -43,12 +43,6 @@ const Cart = ({ cart, setCart, show, setShow }) => {
               cart.map((item, index) => (
                 <div key={index} className="flex items-center justify-between mt-6">
                   <Product {...item} cart={cart} setCart={setCart} />
-                  <button
-                    className="text-sm text-red-500 hover:underline"
-                    onClick={() => handleRemove(index)}
-                  >
-                    Remove
-                  </button>
                 </div>
               ))
             ) : (
