@@ -2,6 +2,10 @@
 
 Welcome to **Emporium**! This is a simple online store built with React and Vite. It allows users to browse products, add items to a shopping cart, and proceed to checkout.
 
+## Live Demo
+
+Click on this link for a live demo: https://emporium-lyart.vercel.app/
+
 ## Features
 
 - **Product Categories**: Browse through various clothing categories including T-shirts, Shoes, Trousers, Dresses, Kids' Fashion, and more.
