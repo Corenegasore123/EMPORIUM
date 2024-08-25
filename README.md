@@ -4,7 +4,7 @@ Welcome to **Emporium**! This is a simple online store built with React and Vite
 
 ## Live Demo
 
-Click on this link for a live demo: https://emporium-lyart.vercel.app/
+Live Site: https://emporium-lyart.vercel.app/
 
 ## Features
 
