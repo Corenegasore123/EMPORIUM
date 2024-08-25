@@ -1,0 +1,39 @@
+/* CheckOut.css */
+
+.checkout-container {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .checkout-form label {
+    display: block;
+    margin: 1rem 0;
+  }
+  
+  .checkout-form input {
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+  }
+  
+  .error {
+    color: red;
+    display: block;
+    margin-top: 0.5rem;
+  }
+  
+  .submit-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 1rem 0;
+    cursor: pointer;
+  }
+  
