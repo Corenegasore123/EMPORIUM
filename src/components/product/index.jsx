@@ -21,17 +21,15 @@ export default function Product({
   const [q, setQ] = useState(quantity);
 
   useEffect(() => {
-    setCart((cart) => {
-      if (cart) {
-        cart.map((item) => {
-          if (item._id === _id && item.size === selectedSize) {
-            item.quantity = q;
-          }
-        });
-      }
-      return cart;
+    setCart((prevCart) => {
+      return prevCart.map((item) => {
+        if (item._id === _id && item.size === selectedSize) {
+          return { ...item, quantity: q }; // Update quantity immutably
+        }
+        return item;
+      });
     });
-  }, [q, selectedSize]);
+  }, [q, selectedSize, _id, setCart]);
 
   return (
     <div className="md:flex items-center mt-14 py-8 border-t border-gray-200">
@@ -57,7 +55,7 @@ export default function Product({
             type="number"
             placeholder={quantity}
             value={q}
-            onChange={(e) => setQ(() => e.target.value > 0 ? e.target.value : 1)}
+            onChange={(e) => setQ(Math.max(parseInt(e.target.value, 10), 1))} // Ensure quantity is at least 1
             className="py-2 w-20 mx-10 md:mx-0 px-1 border-2 border-black mr-6 focus:outline-none"
           />
         </div>

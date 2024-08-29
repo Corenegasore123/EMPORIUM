@@ -6,15 +6,14 @@ const Cart = ({ cart, setCart, show, setShow }) => {
   const navigate = useNavigate();
   const isCartEmpty = cart.length === 0;
 
-  // Calculate subtotal by considering both price and quantity
+  // Recalculate subtotal, shipping, tax, and total amount
   const subtotal = cart.reduce(
     (acc, item) => acc + item.price * item.quantity,
     0
   );
   const shipping = subtotal > 100 ? 3 : 10;
   const tax = subtotal * 0.1;
-  const totalAmount =
-    subtotal > 100 ? subtotal * 1.1 : subtotal * 1.1 + shipping;
+  const totalAmount = subtotal + tax + shipping;
 
   const handleCheckout = () => {
     if (isCartEmpty) {
@@ -73,11 +72,8 @@ const Cart = ({ cart, setCart, show, setShow }) => {
 
             {cart.length > 0 ? (
               cart.map((item, index) => (
-                <div>
-                  <div
-                    key={index}
-                    className="flex items-center justify-between mt-6"
-                  >
+                <div key={index}>
+                  <div className="flex items-center justify-between mt-6">
                     <div className="w-full flex items-center justify-between">
                       <Product {...item} cart={cart} setCart={setCart} />
                     </div>
