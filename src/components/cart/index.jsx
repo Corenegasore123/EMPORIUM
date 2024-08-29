@@ -82,15 +82,15 @@ const Cart = ({ cart, setCart, show, setShow }) => {
                       <Product {...item} cart={cart} setCart={setCart} />
                     </div>
                   </div>
+                  <p className="text-base leading-none text-gray-800">
+                    Size: {item.size}
+                  </p>
                   <button
                     onClick={() => handleRemove(index)}
                     className="text-red-500 hover:text-red-700"
                   >
                     Remove
                   </button>
-                  <p className="text-base leading-none text-gray-800">
-                    Size: {item.size}
-                  </p>
                 </div>
               ))
             ) : (
