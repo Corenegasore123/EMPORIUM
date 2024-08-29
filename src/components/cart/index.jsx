@@ -73,14 +73,15 @@ const Cart = ({ cart, setCart, show, setShow }) => {
 
             {cart.length > 0 ? (
               cart.map((item, index) => (
-                <div>
-                  <div
-                    key={index}
-                    className="flex items-center justify-between mt-6"
-                  >
-                    <div className="w-full flex items-center justify-between">
-                      <Product {...item} cart={cart} setCart={setCart} />
-                    </div>
+                <div key={index} className="flex items-center justify-between mt-6">
+                  <div className="w-full flex items-center justify-between">
+                    <Product {...item} cart={cart} setCart={setCart} />
+                    <button
+                      onClick={() => handleRemove(index)}
+                      className="text-red-500 hover:text-red-700"
+                    >
+                      Remove
+                    </button>
                   </div>
                   <p className="text-base leading-none text-gray-800">
                     Size: {item.size}
