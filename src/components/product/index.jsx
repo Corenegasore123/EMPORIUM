@@ -81,16 +81,6 @@ export default function Product({
               </select>
             </div>
           )}
-          {iscart ? (
-            <p
-              onClick={() => {
-                setCart(cart.filter(item => item._id !== _id || item.size !== selectedSize));
-              }}
-              className="text-xs leading-3 underline text-red-500 pl-5 cursor-pointer"
-            >
-              Remove
-            </p>
-          ) : null}
           <p className="text-base font-black leading-none text-gray-800">${q * price}</p>
         </div>
         {!iscart ? (
