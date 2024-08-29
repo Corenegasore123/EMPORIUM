@@ -11,6 +11,7 @@ export default {
             numReviews: 10,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '2',
@@ -23,6 +24,7 @@ export default {
             numReviews: 5,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '3',
@@ -35,6 +37,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '4',
@@ -47,6 +50,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '5',
@@ -59,6 +63,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '6',
@@ -71,6 +76,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '7',
@@ -83,6 +89,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '8',
@@ -95,6 +102,7 @@ export default {
             numReviews: 10,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '9',
@@ -107,6 +115,7 @@ export default {
             numReviews: 5,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '10',
@@ -119,6 +128,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '11',
@@ -131,6 +141,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '12',
@@ -143,6 +154,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '13',
@@ -155,6 +167,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '14',
@@ -167,6 +180,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '15',
@@ -179,6 +193,7 @@ export default {
             numReviews: 10,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '16',
@@ -191,6 +206,7 @@ export default {
             numReviews: 5,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '17',
@@ -203,6 +219,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '18',
@@ -215,6 +232,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '19',
@@ -227,6 +245,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '20',
@@ -239,6 +258,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '21',
@@ -251,6 +271,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '22',
@@ -263,6 +284,7 @@ export default {
             numReviews: 10,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '23',
@@ -275,6 +297,7 @@ export default {
             numReviews: 5,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '24',
@@ -287,6 +310,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '25',
@@ -299,6 +323,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '26',
@@ -311,6 +336,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '27',
@@ -323,6 +349,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '28',
@@ -335,6 +362,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '29',
@@ -347,6 +375,7 @@ export default {
             numReviews: 10,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '30',
@@ -359,6 +388,7 @@ export default {
             numReviews: 5,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '31',
@@ -371,6 +401,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '32',
@@ -383,6 +414,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '33',
@@ -395,6 +427,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '34',
@@ -407,6 +440,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '35',
@@ -419,6 +453,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '36',
@@ -431,6 +466,7 @@ export default {
             numReviews: 10,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '37',
@@ -443,6 +479,7 @@ export default {
             numReviews: 5,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '38',
@@ -455,6 +492,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '39',
@@ -467,6 +505,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '40',
@@ -479,6 +518,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '41',
@@ -491,6 +531,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '42',
@@ -503,6 +544,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '43',
@@ -515,6 +557,7 @@ export default {
             numReviews: 10,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '44',
@@ -527,6 +570,7 @@ export default {
             numReviews: 5,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '45',
@@ -539,6 +583,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '46',
@@ -551,6 +596,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '47',
@@ -563,6 +609,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '48',
@@ -575,6 +622,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '49',
@@ -587,6 +635,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '50',
@@ -599,6 +648,7 @@ export default {
             numReviews: 10,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '51',
@@ -611,6 +661,7 @@ export default {
             numReviews: 5,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '52',
@@ -623,6 +674,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '53',
@@ -635,6 +687,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '54',
@@ -647,6 +700,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '55',
@@ -659,6 +713,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '56',
@@ -671,6 +726,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '57',
@@ -683,6 +739,7 @@ export default {
             numReviews: 10,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '58',
@@ -695,6 +752,7 @@ export default {
             numReviews: 5,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '59',
@@ -707,6 +765,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '60',
@@ -719,6 +778,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '61',
@@ -731,6 +791,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '62',
@@ -743,6 +804,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '63',
@@ -755,6 +817,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '64',
@@ -767,6 +830,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '65',
@@ -779,6 +843,7 @@ export default {
             numReviews: 10,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '66',
@@ -791,6 +856,7 @@ export default {
             numReviews: 5,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '67',
@@ -803,6 +869,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '68',
@@ -815,6 +882,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '69',
@@ -827,6 +895,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '70',
@@ -839,6 +908,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '71',
@@ -851,6 +921,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '72',
@@ -863,6 +934,7 @@ export default {
             numReviews: 10,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '73',
@@ -875,6 +947,7 @@ export default {
             numReviews: 5,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '74',
@@ -887,6 +960,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '75',
@@ -899,6 +973,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '76',
@@ -911,6 +986,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '77',
@@ -923,6 +999,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '78',
@@ -935,6 +1012,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '79',
@@ -947,6 +1025,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '80',
@@ -959,6 +1038,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '81',
@@ -971,6 +1051,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '82',
@@ -983,6 +1064,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '83',
@@ -995,6 +1077,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '84',
@@ -1007,6 +1090,7 @@ export default {
             numReviews: 10,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '85',
@@ -1019,6 +1103,7 @@ export default {
             numReviews: 5,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '86',
@@ -1031,6 +1116,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '87',
@@ -1043,6 +1129,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '88',
@@ -1055,6 +1142,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '89',
@@ -1067,6 +1155,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '90',
@@ -1079,6 +1168,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '91',
@@ -1091,6 +1181,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '92',
@@ -1103,6 +1194,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '93',
@@ -1115,6 +1207,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '94',
@@ -1127,6 +1220,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '95',
@@ -1139,6 +1233,7 @@ export default {
             numReviews: 10,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '96',
@@ -1151,6 +1246,7 @@ export default {
             numReviews: 5,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '97',
@@ -1163,6 +1259,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '98',
@@ -1175,6 +1272,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '99',
@@ -1187,6 +1285,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '100',
@@ -1199,6 +1298,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '101',
@@ -1211,6 +1311,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '102',
@@ -1223,6 +1324,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '103',
@@ -1235,6 +1337,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '104',
@@ -1247,6 +1350,7 @@ export default {
             numReviews: 10,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '105',
@@ -1259,6 +1363,7 @@ export default {
             numReviews: 5,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '106',
@@ -1271,6 +1376,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '107',
@@ -1283,6 +1389,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '108',
@@ -1295,6 +1402,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '109',
@@ -1307,6 +1415,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '110',
@@ -1319,6 +1428,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '111',
@@ -1331,6 +1441,7 @@ export default {
             numReviews: 5,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '112',
@@ -1343,6 +1454,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '113',
@@ -1355,6 +1467,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '114',
@@ -1367,6 +1480,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '115',
@@ -1379,6 +1493,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '116',
@@ -1391,6 +1506,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '117',
@@ -1403,6 +1519,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '118',
@@ -1415,6 +1532,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '119',
@@ -1427,6 +1545,7 @@ export default {
             numReviews: 10,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '120',
@@ -1439,6 +1558,7 @@ export default {
             numReviews: 5,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '121',
@@ -1451,6 +1571,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '122',
@@ -1463,6 +1584,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '123',
@@ -1475,6 +1597,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '124',
@@ -1487,6 +1610,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '125',
@@ -1499,6 +1623,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '126',
@@ -1511,6 +1636,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '127',
@@ -1523,6 +1649,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '128',
@@ -1535,6 +1662,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '129',
@@ -1547,6 +1675,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '130',
@@ -1559,6 +1688,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '131',
@@ -1571,6 +1701,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '132',
@@ -1583,6 +1714,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '133',
@@ -1595,6 +1727,7 @@ export default {
             numReviews: 10,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '134',
@@ -1607,6 +1740,7 @@ export default {
             numReviews: 5,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '135',
@@ -1619,6 +1753,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '136',
@@ -1631,6 +1766,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '137',
@@ -1643,6 +1779,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '138',
@@ -1655,6 +1792,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         },
         {
             _id: '139',
@@ -1667,6 +1805,7 @@ export default {
             numReviews: 8,
             quantity: 1,
             description: 'High Quality Product',
+            sizes: ["S", "M", "L", "XL"]
         }
     ]
 }
