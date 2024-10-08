@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Header from './components/header';
 import Categories from './components/categories';
 import Footer from './components/footer';
@@ -15,12 +15,26 @@ import Sweaters from './components/sweaters';
 import CheckOut from './components/checkout/checkout';
 import Completed from './components/completed/index';
 import BackToTop from './components/BackToTop';
+import Preloader from './components/preloader/Preloader'; 
 
 function App() {
   const [cart, setCart] = useState([]);
   const [isCheckoutComplete, setIsCheckoutComplete] = useState(false);
+  const [loading, setLoading] = useState(true); 
 
   const isCartEmpty = cart.length === 0;
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setLoading(false); 
+    }, 1000);
+
+    return () => clearTimeout(timer);
+  }, []);
+
+  if (loading) {
+    return <Preloader />; 
+  }
 
   return (
     <Router>
